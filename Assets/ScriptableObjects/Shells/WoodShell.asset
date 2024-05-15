@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7659510359e16284b8141fc258a81692, type: 3}
+  m_Name: WoodShell
+  m_EditorClassIdentifier: 
+  shellSprite: {fileID: 21300000, guid: 1ad499860e51f9047934be523f081f91, type: 3}
+  shellBackSprite: {fileID: 21300000, guid: 260bbdf804d457a40ac4174540fbc028, type: 3}
+  shellHealth: 1
+  shellStamina: 2
+  shellHunger: 20
+  shellArmor: 1
+  shellName: WoodShell
+  shellSummon: 0
+  shellDesc: 

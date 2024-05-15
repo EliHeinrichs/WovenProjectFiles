@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: b06cf1876aa07074094671f1869adfd6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 260
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bug items 1Update_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1027
+        width: 151
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465e21b63a48b5046b5f721e423a243b
+      internalID: 561425661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug items 1Update_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1031
+        width: 149
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0c3438e364d504ea2953bfd9f982dd
+      internalID: 1704993030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug items 1Update_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 965
+        width: 195
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b6da60fe01d5c46a7a6e0f62ea2769
+      internalID: 497595419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug items 1Update_3
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1168
+        width: 256
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dd0fb4e1a2a034b8f1098723751316
+      internalID: 284936602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug items 1Update_4
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1217
+        width: 140
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5932f4dedd50b74d89e9a52fbe9c147
+      internalID: -2000226782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug items 1Update_5
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1139
+        width: 232
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec31c9ef9d1d83f47ac652c9a400caaf
+      internalID: -1008099906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug items 1Update_6
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1148
+        width: 199
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd1df13426d17b46be56551330d7b77
+      internalID: 1926977462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug items 1Update_7
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1132
+        width: 205
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bb9ee29088ff54ea0e91e081bb6b33
+      internalID: -899044766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug items 1Update_8
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 1133
+        width: 198
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b996edd06b4d60d458b63a4275e4b30f
+      internalID: -532822585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug items 1Update_9
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 256
+        width: 404
+        height: 588
+      alignment: 9
+      pivot: {x: 0.76581264, y: 0.09488636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93db08529f9524d47a3006206c614a6e
+      internalID: 267202697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug items 1Update_10
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 178
+        width: 509
+        height: 664
+      alignment: 9
+      pivot: {x: 0.5230159, y: 0.19712499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd2ad8151aa7184f92169ff1c5aec31
+      internalID: -907794418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug items 1Update_11
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 20
+        width: 191
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca51c60cce402f4387f0547fa1e6c5d
+      internalID: 1702463402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug items 1Update_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 69
+        width: 433
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30168d9334177cc4a9b8a5825c712f12
+      internalID: -199958413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug items 1Update_13
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 994
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58000524ac072cf499abc1abea858238
+      internalID: -1086986832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug items 1Update_14
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1004
+        width: 8
+        height: 22
+      alignment: 9
+      pivot: {x: 0.63064575, y: 0.8642273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f316d247aded045bac1e21a2b02152
+      internalID: 1752986734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug items 1Update_15
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1001
+        width: 11
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4683283, y: 0.8081923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d0bcabec8ba3f468136fd76aa9ea12
+      internalID: 1143175759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug items 1Update_16
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1033
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302707fbdccc0794e8a571be508f8e3c
+      internalID: 1136654841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug items 1Update_17
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1007
+        width: 52
+        height: 69
+      alignment: 9
+      pivot: {x: 0.17841046, y: 0.7322609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed8274e8a696334a8d4b5cd38d9d470
+      internalID: -355677917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug items 1Update_18
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1069
+        width: 22
+        height: 46
+      alignment: 9
+      pivot: {x: 0.32580566, y: 0.05315366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b94413cd07420479b9df06f6b7829d
+      internalID: 387324951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug items 1Update_19
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1065
+        width: 24
+        height: 49
+      alignment: 9
+      pivot: {x: 0.6741994, y: 0.09473155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322c71c703953e6448f0fff110ceecf6
+      internalID: 158301506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug items 1Update_20
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 48
+        width: 100
+        height: 164
+      alignment: 9
+      pivot: {x: 0.7845557, y: 0.17642681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853aa35910e5d9347a69e967d38b2cca
+      internalID: -1722187481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug items 1Update_21
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 40
+        width: 95
+        height: 77
+      alignment: 9
+      pivot: {x: 0.18427478, y: 0.40011963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffbdffc6a76b9f46840980fbd8e1721
+      internalID: -880304305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bug items 1Update_22
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 24
+        width: 129
+        height: 68
+      alignment: 9
+      pivot: {x: 0.13632983, y: 0.5565482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0445e5865836d4b98bc07374c2ddba
+      internalID: -1524025597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bug items 1Update_0: 561425661
+      bug items 1Update_1: 1704993030
+      bug items 1Update_10: -907794418
+      bug items 1Update_11: 1702463402
+      bug items 1Update_12: -199958413
+      bug items 1Update_13: -1086986832
+      bug items 1Update_14: 1752986734
+      bug items 1Update_15: 1143175759
+      bug items 1Update_16: 1136654841
+      bug items 1Update_17: -355677917
+      bug items 1Update_18: 387324951
+      bug items 1Update_19: 158301506
+      bug items 1Update_2: 497595419
+      bug items 1Update_20: -1722187481
+      bug items 1Update_21: -880304305
+      bug items 1Update_22: -1524025597
+      bug items 1Update_23: 1461916199
+      bug items 1Update_3: 284936602
+      bug items 1Update_4: -2000226782
+      bug items 1Update_5: -1008099906
+      bug items 1Update_6: 1926977462
+      bug items 1Update_7: -899044766
+      bug items 1Update_8: -532822585
+      bug items 1Update_9: 267202697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

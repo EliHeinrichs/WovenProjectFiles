@@ -1,0 +1,784 @@
+fileFormatVersion: 2
+guid: 76659e7363859af46b71f806e6534dc0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_0
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 3853
+        width: 830
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac85c0317d531354ab38392d395d1cdd
+      internalID: 1262589116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_1
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 3172
+        width: 407
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674e54fb3b1615b42a2d596f963d9c71
+      internalID: -751153754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 3027
+        width: 303
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770197dadb28a9644b3f2466386ebf93
+      internalID: 1025252097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_3
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 2539
+        width: 330
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7de004433cbe9c49bbd962f4725be98
+      internalID: 1472935061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_4
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 2040
+        width: 461
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af1daeed60159b40aa4b83a81c30415
+      internalID: 1375379373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_5
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 2612
+        width: 464
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2261d7b2bf127b419f9fad4376480a3
+      internalID: 1526456815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1752
+        width: 392
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125565db77e4c344da31537a85efe190
+      internalID: -877602325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1272
+        width: 306
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3d1123a700aec4b99d91f3a7e0b17a
+      internalID: -974699804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_8
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1149
+        width: 476
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e021bd995640f4c81ff1a08f25086e
+      internalID: 1386256495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_9
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 738
+        width: 653
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efce9a8861e95e4a9366b4f9d0b4cff
+      internalID: -833161879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_10
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 942
+        width: 441
+        height: 475
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47615042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d4851eca712864fa0e7994e4ad69a4
+      internalID: -1260949140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_11
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 469
+        width: 649
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be667882f3bb1741892db5104badaa0
+      internalID: -1863197670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_12
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 0
+        width: 353
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f992bf415b3a6504da62837737191df9
+      internalID: 198961812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_13
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 35
+        width: 384
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213fc13c5fa2366428f97fafd6a8255a
+      internalID: -1291378256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_14
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 285
+        width: 238
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bfa4fb3dfb5ae4b9d39fbebe8f70cc
+      internalID: 1869721591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_15
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 308
+        width: 188
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcac7f2e41affb34181679ddb588d73b
+      internalID: 465952377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_16
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 884
+        width: 484
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e1ce6848665f24b824a0fe8521486a
+      internalID: -255290743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_17
+      rect:
+        serializedVersion: 2
+        x: 4675
+        y: 957
+        width: 338
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef9c7692aa5fc5498878db003150ccb
+      internalID: 1442503047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_18
+      rect:
+        serializedVersion: 2
+        x: 4130
+        y: 166
+        width: 503
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42598a8b664039479c63e8b4306be04
+      internalID: 73608915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_19
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 1786
+        width: 264
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e07eeaf4c7c4cf4bbd8c759a9035f88
+      internalID: -85038666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_20
+      rect:
+        serializedVersion: 2
+        x: 3969
+        y: 1852
+        width: 380
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7e353abde1a8d49b3438c485bc1378
+      internalID: -869733997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_21
+      rect:
+        serializedVersion: 2
+        x: 4883
+        y: 2643
+        width: 138
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f901d58c4224bce418d0d04ebcb73ddb
+      internalID: -1533855991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_22
+      rect:
+        serializedVersion: 2
+        x: 3685
+        y: 2593
+        width: 495
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0c9ae77d22db74390a4c82d4ac5422
+      internalID: 1903790267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_23
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 3368
+        width: 834
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196dafe11152e814986b0573d980339b
+      internalID: 20388812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_24
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 2969
+        width: 142
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f369c401866b81943b49ceb736cfc2df
+      internalID: 1255754847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_25
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 2439
+        width: 392
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3d0ceaaeddbe749a4b64a65f2f8848
+      internalID: 1737221134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_26
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 1855
+        width: 353
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35216313ef63f7a43b08207ad93923cf
+      internalID: 1586289491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_27
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 2466
+        width: 331
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04660d6c1460b29418206a21a3e1db3e
+      internalID: -573737306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_28
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 3337
+        width: 591
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac21ccfc9d460de41b3ec08a1df134dd
+      internalID: -1642977593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WovenEnemies1_0005_FungalOvergrowth_29
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 4086
+        width: 254
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46893a6c7afef6c46968157c49150bf6
+      internalID: 1350118681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WovenEnemies1_0005_FungalOvergrowth_0: 1262589116
+      WovenEnemies1_0005_FungalOvergrowth_1: -751153754
+      WovenEnemies1_0005_FungalOvergrowth_10: -1260949140
+      WovenEnemies1_0005_FungalOvergrowth_11: -1863197670
+      WovenEnemies1_0005_FungalOvergrowth_12: 198961812
+      WovenEnemies1_0005_FungalOvergrowth_13: -1291378256
+      WovenEnemies1_0005_FungalOvergrowth_14: 1869721591
+      WovenEnemies1_0005_FungalOvergrowth_15: 465952377
+      WovenEnemies1_0005_FungalOvergrowth_16: -255290743
+      WovenEnemies1_0005_FungalOvergrowth_17: 1442503047
+      WovenEnemies1_0005_FungalOvergrowth_18: 73608915
+      WovenEnemies1_0005_FungalOvergrowth_19: -85038666
+      WovenEnemies1_0005_FungalOvergrowth_2: 1025252097
+      WovenEnemies1_0005_FungalOvergrowth_20: -869733997
+      WovenEnemies1_0005_FungalOvergrowth_21: -1533855991
+      WovenEnemies1_0005_FungalOvergrowth_22: 1903790267
+      WovenEnemies1_0005_FungalOvergrowth_23: 20388812
+      WovenEnemies1_0005_FungalOvergrowth_24: 1255754847
+      WovenEnemies1_0005_FungalOvergrowth_25: 1737221134
+      WovenEnemies1_0005_FungalOvergrowth_26: 1586289491
+      WovenEnemies1_0005_FungalOvergrowth_27: -573737306
+      WovenEnemies1_0005_FungalOvergrowth_28: -1642977593
+      WovenEnemies1_0005_FungalOvergrowth_29: 1350118681
+      WovenEnemies1_0005_FungalOvergrowth_3: 1472935061
+      WovenEnemies1_0005_FungalOvergrowth_4: 1375379373
+      WovenEnemies1_0005_FungalOvergrowth_5: 1526456815
+      WovenEnemies1_0005_FungalOvergrowth_6: -877602325
+      WovenEnemies1_0005_FungalOvergrowth_7: -974699804
+      WovenEnemies1_0005_FungalOvergrowth_8: 1386256495
+      WovenEnemies1_0005_FungalOvergrowth_9: -833161879
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

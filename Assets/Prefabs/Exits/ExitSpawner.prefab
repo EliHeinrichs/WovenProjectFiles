@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &608044076487710744
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1091589722672105642}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1091589722672105642
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 608044076487710744}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.3, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6544254185293075880}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1200284793335256958
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 117029970049551}
+  m_Layer: 0
+  m_Name: GameObject (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &117029970049551
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1200284793335256958}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.3, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6544254185293075880}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8355578791196667253
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6544254185293075880}
+  - component: {fileID: 7353339190917342936}
+  m_Layer: 0
+  m_Name: ExitSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6544254185293075880
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8355578791196667253}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.899562, y: 9.128063, z: 0.48306677}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1091589722672105642}
+  - {fileID: 117029970049551}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7353339190917342936
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8355578791196667253}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8342fcd0fd5a5f34aaf75e8a21015634, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  baseRoom:
+    roomTypeDoor: {fileID: 4087193779061050542, guid: fe16a222173039546a550b5ba3067b6d, type: 3}
+    roomThemeMusic: {fileID: 8300000, guid: 09dd90cad70734f42b321567f888cd4d, type: 3}
+  spawnDoorPositions:
+  - {fileID: 1091589722672105642}
+  - {fileID: 117029970049551}
+  doorData:
+  - roomTypeDoor: {fileID: 9135342160043695767, guid: 21e5e3c5ee219bc438b1bef497673815, type: 3}
+    roomThemeMusic: {fileID: 8300000, guid: 09dd90cad70734f42b321567f888cd4d, type: 3}
+  - roomTypeDoor: {fileID: 2931606958248292662, guid: be6a81a90f8548d4ebe117ff24c3a265, type: 3}
+    roomThemeMusic: {fileID: 8300000, guid: 09dd90cad70734f42b321567f888cd4d, type: 3}
+  - roomTypeDoor: {fileID: 994358555548468163, guid: 374e2ca7b78c3e14e95f645f9bb49290, type: 3}
+    roomThemeMusic: {fileID: 8300000, guid: 09dd90cad70734f42b321567f888cd4d, type: 3}
+  - roomTypeDoor: {fileID: 3173026816362211626, guid: 1f7e3a31943c07f44b89cfc7b8815c8c, type: 3}
+    roomThemeMusic: {fileID: 8300000, guid: fdea7b67aa693c548a10680d498cdeb4, type: 3}
+  - roomTypeDoor: {fileID: 3690687844775048892, guid: 3bdfb3b7d5c9b9040b8440302b54b3ca, type: 3}
+    roomThemeMusic: {fileID: 8300000, guid: e8d435f1bfec4c54dbdcc421638f6fff, type: 3}
+  finalRoom:
+    roomTypeDoor: {fileID: 3173026816362211626, guid: b0c03da24c95cc4408e867931815020a, type: 3}
+    roomThemeMusic: {fileID: 8300000, guid: bd4946c7d904900468a582555138cd26, type: 3}
